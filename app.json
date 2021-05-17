@@ -1,0 +1,12 @@
+{
+  "name": "androidapp",
+  "displayName": "androidapp",
+  "expo": {
+    "name": "androidapp",
+    "slug": "androidapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
